@@ -67,6 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\style.css" />
+    <Content Include="css\stylesocial.css" />
+    <Content Include="fonttest.html" />
+    <Content Include="js\slider-min.js" />
+    <Content Include="js\slider.js" />
+    <Content Include="resim\1.jpg" />
+    <Content Include="resim\2.jpg" />
+    <Content Include="resim\3.jpg" />
+    <Content Include="resim\4.jpg" />
+    <Content Include="resim\5.jpg" />
+    <Content Include="resim\bullet.png" />
+    <Content Include="SocialButtons.html" />
+    <Content Include="test.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
